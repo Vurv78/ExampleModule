@@ -1,0 +1,3 @@
+[submodule "module_base"]
+	path = module_base
+	url = https://github.com/Facepunch/gmod-module-base
